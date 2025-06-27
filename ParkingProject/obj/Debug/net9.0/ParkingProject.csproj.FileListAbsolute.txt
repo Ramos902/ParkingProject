@@ -1,0 +1,15 @@
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\bin\Debug\net9.0\ParkingProject.exe
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\bin\Debug\net9.0\ParkingProject.deps.json
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\bin\Debug\net9.0\ParkingProject.runtimeconfig.json
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\bin\Debug\net9.0\ParkingProject.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\bin\Debug\net9.0\ParkingProject.pdb
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.AssemblyInfoInputs.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.AssemblyInfo.cs
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.csproj.CoreCompileInputs.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.sourcelink.json
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\refint\ParkingProject.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.pdb
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ParkingProject.genruntimeconfig.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(2)ExerciseParking\ParkingProject\ParkingProject\obj\Debug\net9.0\ref\ParkingProject.dll
